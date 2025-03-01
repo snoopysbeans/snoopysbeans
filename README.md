@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi👋, I'm maja!
 
-<!--
-**snoopysbeans/snoopysbeans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning how to work programming systems in tie with bioinformatics and biotech!
+- 👯 I’m looking to collaborate on biotech and bioinformatics projects
+- 🤔 I’m looking for help with sum confusing programming stuff
+- 💬 Ask me about bio theory!
+- 📫 How to reach me: text me on discord (my handle is dyketrone3000) or on my gmail: snoopysbeansie@gmail.com
+- 😄 Pronouns: i use any, but i do prefer they/he
+- ⚡ Fun fact: i loveee classic literature
+
